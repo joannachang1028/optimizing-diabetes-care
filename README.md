@@ -25,9 +25,9 @@ Potential extensions include dynamic budgets, multi-disease optimization, and in
 
 #### Presentation (slides PDF)
 
-Slides for the associated talk are bundled as **`Optimizing Diabetes Care - Data to Action Project.pdf`**.  
+Companion slides are distributed as **`Optimizing Diabetes Care - Data to Action Project.pdf`**.
 
-**Browse on GitHub:** open [Optimizing Diabetes Care – Data to Action Project.pdf](./Optimizing%20Diabetes%20Care%20-%20Data%20to%20Action%20Project.pdf) — the site shows the PDF viewer so readers can scroll and zoom slide pages in the browser. (Markdown does not embed a slide deck inside `README`; the viewer opens when you use that link or pick the PDF in the repo file list.)
+Please view that file directly in this repository: follow **[Slides (PDF)](./Optimizing%20Diabetes%20Care%20-%20Data%20to%20Action%20Project.pdf)**, or open **`Optimizing Diabetes Care - Data to Action Project.pdf`** from the GitHub file browser. GitHub will load the PDF in its built‑in viewer; use scroll and zoom to move between slides. The deck is documented here as a standalone PDF rather than inlined in this readme.
 
 #### Project structure
 
